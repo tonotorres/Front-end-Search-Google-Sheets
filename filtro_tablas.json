@@ -1,0 +1,70 @@
+{
+    "schemas": [
+        {
+            "conexion": "HAVEST",
+            "tablas": [
+                {
+                    "conexion": "HAVEST",
+                    "nombre": "CO_USER",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                },
+                {
+                    "conexion": "HAVEST",
+                    "nombre": "SFDC_WE_CORE.CO_LOCATION_G__C",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "conexion": "SFDC",
+            "tablas": [
+                {
+                    "conexion": "SFDC",
+                    "nombre": "CO_USER",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                },
+                {
+                    "conexion": "SFDC",
+                    "nombre": "SFDC_WE_CORE.CO_LOCATION_G__C",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+[{
+                    "conexion": "HAVEST",
+                    "aplication":"ReportsBe",
+                    "nombre": "CO_USER",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "SFDC_WE_CORE.CO_LOCATION_G__C",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "conexion": "SFDC",
+            "tablas": [
+                {
+                    "nombre": "CO_USER",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "SFDC_WE_CORE.CO_LOCATION_G__C",
+                    "campos": [
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        },
+                        {
+                            "nombrecampo": "DWH_ID",
+                            "value": "QUERY1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

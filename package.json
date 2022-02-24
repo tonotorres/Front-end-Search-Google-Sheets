@@ -1,0 +1,52 @@
+{
+  "name": "roche_oracle_epicx_search",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@popperjs/core": "^2.11.2",
+    "axios": "^0.25.0",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "portal-vue": "^2.1.7",
+    "vue": "^2.6.14",
+    "vue-gsheets": "^4.0.3",
+    "vue-multiselect": "^2.1.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-service": "^3.12.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.7.0",
+    "eslint-plugin-vue": "^8.3.0",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
